@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variant Manipulator Shopify Store", "Variant Manipulator Shopify Store\Variant Manipulator Shopify Store.csproj", "{8EB8A3ED-4FDB-404A-96CC-1B4D4B2C7764}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Variant Manipulator Setup", "Variant Manipulator Setup\Variant Manipulator Setup.vdproj", "{DA3C37C7-5020-4BBE-A5A5-FD7994C32268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB8A3ED-4FDB-404A-96CC-1B4D4B2C7764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB8A3ED-4FDB-404A-96CC-1B4D4B2C7764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB8A3ED-4FDB-404A-96CC-1B4D4B2C7764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB8A3ED-4FDB-404A-96CC-1B4D4B2C7764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3C37C7-5020-4BBE-A5A5-FD7994C32268}.Debug|Any CPU.ActiveCfg = Debug
+		{DA3C37C7-5020-4BBE-A5A5-FD7994C32268}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367F095E-BB07-4C90-A758-F4AAB31F2F00}
+	EndGlobalSection
+EndGlobal
