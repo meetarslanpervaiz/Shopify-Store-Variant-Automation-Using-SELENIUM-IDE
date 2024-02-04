@@ -1,7 +1,7 @@
 # Shopify Store Variant Automation Using SELENIUM IDE
 
 This repository contains a C# application for automating variant manipulation tasks in a Shopify store using Selenium IDE.
-
+![Screenshot](SS.png)
 ## Overview
 The application provides functionalities to manipulate variants of products in a Shopify store based on data imported from an Excel sheet. It utilizes Selenium IDE for web automation.
 
